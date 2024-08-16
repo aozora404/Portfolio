@@ -2,14 +2,6 @@
 
 This is a personal portfolio website built using React. It showcases my skills, projects, experience, and contact information. The website is designed to be fully responsive, user-friendly, and easy to maintain.
 
-## Table of Contents
-
-- [Portfolio](#portfolio)
-  - [Table of Contents](#table-of-contents)
-  - [Demo](#demo)
-  - [Technologies Used](#technologies-used)
-  - [License](#license)
-
 ## Demo
 
 You can view the live demo of the portfolio website [here](https://your-portfolio-site-url.com).
